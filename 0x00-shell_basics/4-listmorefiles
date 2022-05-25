@@ -1,2 +1,3 @@
 #!/binbash
 ls la
+ls -la
